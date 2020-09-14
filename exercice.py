@@ -16,7 +16,8 @@ def square(a: float) -> float:
 
 def average(a: float, b: float, c: float) -> float:
 
-    return (a+b+)
+    return (a+b+c)/3
+    
 
 
 
